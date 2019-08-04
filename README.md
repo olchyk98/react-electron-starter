@@ -1,4 +1,5 @@
 
+
 # React Electron Starter 🌈
 React Electron Starter is a simple and fast way to start writing Node.js Electron code.
 
@@ -10,11 +11,22 @@ React Electron Starter is a simple and fast way to start writing Node.js Electro
 - Your Electron and React parts of the project are able even to communicate through eventEmittor (ipcRenderer/ipcMain)
 
 ## How to start 🎬
-Clone the Github repository:
+#### Clone the Github repository:
 
     git clone https://github.com/olchyk98/react-electron-starter
 
-Run your app in **dev mode**:
+#### Install all React/Electron dependencies:
+
+    yarn
+or if you're using NPM
+
+    npm install
+
+#### Run your app in **dev mode**:
+
+    yarn start
+    
+  or if you're using NPM
 
     npm start
 
