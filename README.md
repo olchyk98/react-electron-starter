@@ -19,6 +19,3 @@ Run your app in **dev mode**:
 
 ---
 Made with ♥ for people who're going to try Electron
-
-Hello  
-World
